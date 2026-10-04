@@ -1,6 +1,6 @@
 # Marketing Campaigns Performance Analysis & Interactive Excel Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 An end-to-end marketing campaign analysis project built with Microsoft Excel and Power Query to evaluate campaign performance, marketing efficiency, customer demographics, and revenue generation across multiple digital channels.
 
@@ -11,11 +11,11 @@ The project analyzes 2,000 campaign records across:
 - Social Media
 - Influencer Marketing
 
-## 🎯 Objective
+## Objective
 
 The main goal was to evaluate campaign effectiveness, identify revenue drivers, measure marketing efficiency, and provide insights to support future campaign optimization and budget allocation decisions.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Excel
 - Power Query
@@ -25,7 +25,7 @@ The main goal was to evaluate campaign effectiveness, identify revenue drivers, 
 - Data Visualization
 - Interactive Dashboard
 
-## 🔧 What I Did
+## What I Did
 
 ### Data Preparation & ETL
 
@@ -59,7 +59,7 @@ Analyzed campaign performance across:
 - Conversions
 - Engagement Metrics
 
-## 📊 Interactive Dashboard
+## Interactive Dashboard
 
 The Excel dashboard includes:
 
@@ -71,7 +71,7 @@ The Excel dashboard includes:
 - Interactive Slicers
 - Marketing Efficiency Metrics
 
-## 📈 Key Results
+## Key Results
 
 ### Overall Performance
 
@@ -92,18 +92,18 @@ The Excel dashboard includes:
 - **Suceava** ranked second with approximately **$4.36M**.
 - The **45–54 age group** generated the highest revenue at approximately **$4.65M** and achieved a **2.62x ROAS**.
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Marketing Dashboard](dashboard-preview.png)
 
-## 📂 Project Files
+## Project Files
 
 | File | Description |
 |---|---|
 | `Marketing_Campaigns_Analysis.xlsx` | Complete Excel analysis, Power Query transformations, calculations, Pivot Tables, and interactive dashboard |
 | `dashboard-preview.png` | Preview of the final interactive dashboard |
 
-## 💡 Key Takeaway
+## Key Takeaway
 
 The analysis indicates that **Paid Ads provided the strongest overall return**, while **Social Media demonstrated strong engagement and conversion performance**. These findings can support future campaign optimization and marketing budget allocation.
 
